@@ -22,5 +22,5 @@
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
   },
-  "image": "ghcr.io/hass-emulated-hue/core"
+  "image": "ghcr.io/cvele/hass-emulated-hue-core"
 }
