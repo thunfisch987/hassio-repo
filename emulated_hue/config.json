@@ -2,7 +2,7 @@
   "name": "Emulated HUE",
   "version": "latest",
   "description": "Hue Emulation for Home Assistant",
-  "url": "https://github.com/cvele/emulated-hue-core",
+  "url": "https://github.com/thunfisch987/emulated-hue-core",
   "slug": "emulated_hue",
   "stage": "stable",
   "startup": "application",
@@ -22,5 +22,5 @@
     "use_default_ports_for_discovery": "bool?",
     "verbose": "bool"
   },
-  "image": "ghcr.io/cvele/hass-emulated-hue-core"
+  "image": "ghcr.io/thunfisch987/hass-emulated-hue-core"
 }
